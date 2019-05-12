@@ -50,13 +50,13 @@ features:
           description: La publication des documents fondamentaux relatifs à la dépense publique et leur mise à jour régulière constituent les éléments de base d'un système budgétaire responsable, transparent et ouvert. Il s’agit d’un des critères d’éligibilité essentiel pour l’adhésion au PGO.
           grid:
               - title: Senegal - Vers une meilleure transparence budgétaire et financière
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+                description: Bien qu’étant un droit consacré par la constitution sénégalaise, l’accès à l’information ne fait pas l’objet d’une loi spécifique dans le pays.
                 icon: send
               - title: Bénin - Mise en place de la participation citoyenne dans le budget de l'État
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+                description: En 2016, le Bénin fait face à une crise de confiance entre citoyens et gouvernement. Découvrez comment la Direction du Budget y fit face en inaugurant un processus de participation citoyenne.
                 icon: message-square
               - title: Tunisie - Plateforme numérique du budget ouvert Mizaniatouna 
-                description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident iste voluptas sunt eligendi sit dolorem blanditiis nostrum, fuga ducimus enim? Ut temporibus.
+                description: Afin d’améliorer la transparence et un meilleur accès à l’information et aux données sur les dépenses publiques, le Ministère des Finances tunisien a lancé le portail **Mizaniatouna** (notre budget).
                 icon: monitor
     footer: # Set features section footer variables
         title: Ressources complémentaires
