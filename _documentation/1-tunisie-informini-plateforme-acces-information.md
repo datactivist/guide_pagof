@@ -3,7 +3,7 @@
 title: Tunisie — Plateforme Informini # Define a title of your page
 description: La plateforme Informini permet aux citoyens de faire une demande d’accès simplifiée à des informations détenues par une organisation publique tunisienne. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 2 # Define order of this page in list of all documentation documents
+order: 3 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
