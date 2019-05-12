@@ -3,7 +3,7 @@
 title: Tunisie - Guide Open Gov local # Define a title of your page
 description: Un guide pratique à destination des municipalités tunisiennes pour mettre en place les principes du gouvernement ouvert au niveau local. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 9 # Define order of this page in list of all documentation documents
+order: 16 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
