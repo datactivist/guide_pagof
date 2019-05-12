@@ -8,6 +8,6 @@ keywords: # Define keywords for search engines
 # Hero section
 hero:
     title: Toutes les ressources et présentations du séminaire de Tunis 2018
-    text:  Les fiches ressources qui suivent ont été rédigées sur la base des présentations, discussions et échanges de pratiques entre les participants du séminaire. Vous voulez enrichir le guide ? Soumettez-nous vos liens, ressources documentées [ici sur ce wiki ouvert à tous](https://github.com/datactivist/guide_pagof/wiki)
+    text:  Les fiches ressources qui suivent ont été rédigées sur la base des présentations, discussions et échanges de pratiques entre les participants du séminaire. Vous voulez enrichir le guide ? Soumettez-nous vos liens et ressources documentées !
     
 ---
