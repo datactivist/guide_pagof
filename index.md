@@ -33,17 +33,17 @@ features:
           grid: # Add feature grid items below, there are examples with all available options
               - title: Tunisie - Informini, plateforme de demande d’accès à l’information 
                 description: La plateforme Informini permet de faire une demande d’accès simplifiée à des informations détenues par une organisation publique tunisienne.
-                url: https://cecilaki.github.io/guide/documentation/tunisie-informini-plateforme-acces-information/
+                url: https://datactivist.coop/guide_pagof/documentation/1-tunisie-informini-plateforme-acces-information/
                 external_url: false
                 icon: box # Choose from 266 icons in "Feather" icon set, list of all icons is available here - https://feathericons.com
               - title: Maroc - De l’adoption à la mise en œuvre de la loi d'accès à l'information
                 description: L’expérience marocaine est un cas exemplaire de par la consultation permanente de la société civile tout au long du processus de construction de la loi d’accès à l’information.
-                url: https://cecilaki.github.io/guide/documentation/maroc-loi-acces-information/
+                url: https://datactivist.coop/guide_pagof/documentation/1-Maroc-loi-acces-information/
                 external_url: true
                 icon: edit
               - title: Senegal — Pour une loi spécifique d'accès à l'information
                 description: Bien qu’étant un droit consacré par la constitution sénégalaise, l’accès à l’information ne fait pas l’objet d’une loi spécifique dans le pays.
-                url: https://cecilaki.github.io/guide/documentation/senegal-rendre-effectif-droit-acces-information/
+                url: https://datactivist.coop/guide_pagof/documentation/1-senegal-rendre-effectif-droit-acces-information/
                 external_url: true
                 icon: eye
         - title: Theme 2 - Transparence et bonne gouvernance financière
@@ -51,12 +51,36 @@ features:
           grid:
               - title: Senegal - Vers une meilleure transparence budgétaire et financière
                 description: Bien qu’étant un droit consacré par la constitution sénégalaise, l’accès à l’information ne fait pas l’objet d’une loi spécifique dans le pays.
+                url: https://datactivist.coop/guide_pagof/documentation/2-Senegal-transparence-budgetaire-financiere/
+                external_url: true
                 icon: send
               - title: Bénin - Mise en place de la participation citoyenne dans le budget de l'État
                 description: En 2016, le Bénin fait face à une crise de confiance entre citoyens et gouvernement. Découvrez comment la Direction du Budget y fit face en inaugurant un processus de participation citoyenne.
+                url: https://datactivist.coop/guide_pagof/documentation/2-Benin-participation-citoyenne-au-budget-de-Etat/
+                external_url: true
                 icon: message-square
               - title: Tunisie - Plateforme numérique du budget ouvert Mizaniatouna 
                 description: Afin d’améliorer la transparence et un meilleur accès à l’information et aux données sur les dépenses publiques, le Ministère des Finances tunisien a lancé le portail Mizaniatouna (notre budget).
+                url: https://datactivist.coop/guide_pagof/documentation/2-Tunisie-portail-open-data-Mizaniatouna/
+                external_url: true
+                icon: monitor
+          - title: Theme 3 - Les nouveaux cadres de participation citoyenne
+          description: De nouveaux cadres de participation citoyenne émergent et prennent différentes formes, avec pour objectif commun de favoriser la consultation et l’écoute des citoyens.
+          grid:
+              - title: Burkina Faso - Le Présimètre
+                description: Cette plateforme numérique permet aux citoyens de visualiser l’avancée des engagements pris par le Président de la République et son gouvernement et de s'impliquer dans des débats publics télévisés.
+                url: https://datactivist.coop/guide_pagof/documentation/3-Burkina-faso-Presimetre/
+                external_url: true
+                icon: send
+              - title: Côte d’Ivoire – Un dialogue citoyen pour co-construire le PAN
+                description: Dans le cadre de l’élaboration de son 2d Plan d’Action National,la Côte d’Ivoire a veillé à la participation active de la société civile tout au long du processus.
+                url: https://datactivist.coop/guide_pagof/documentation/3-Cote-ivoire-participation-societe-civile/
+                external_url: true
+                icon: message-square
+              - title: France – Les Forums Open d’Etat 
+                description: Les Forums Open d’État favorisent un travail collaboratif sur les engagements du PAN. Ils sont ouverts à tous et ont pour objectif de faire se rencontrer régulièrement des agents publics et des acteurs de la société civile sur des thèmes spécifiques.
+                url: https://datactivist.coop/guide_pagof/documentation/3-France-Forums-Open-Etat/
+                external_url: true
                 icon: monitor
     footer: # Set features section footer variables
         title: Ressources complémentaires
