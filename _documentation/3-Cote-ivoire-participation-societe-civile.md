@@ -3,7 +3,7 @@
 title: Côte d’Ivoire – Un dialogue citoyen pour co-construire le PAN # Define a title of your page
 description: Dans le cadre de l’élaboration de son 2d Plan d’Action National,la Côte d’Ivoire a veillé à la participation active de la société civile tout au long du processus. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 0 # Define order of this page in list of all documentation documents
+order: 12 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
