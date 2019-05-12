@@ -3,7 +3,7 @@
 title: Burkina Faso – Le Présimètre # Define a title of your page
 description: La plateforme permet aux citoyens de visualiser l’avancée des engagements pris par le Président de la République et son gouvernement. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 0 # Define order of this page in list of all documentation documents
+order: 11 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
