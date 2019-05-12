@@ -3,7 +3,7 @@
 title: OCDE – Un cadre de référence pour le gouvernement ouvert # Define a title of your page
 description: En décembre 2017, le Conseil de l'OCDE adopte la Recommandation sur le Gouvernement Ouvert, qui définit un ensemble de critères pour aider les pays adhérents à concevoir et mettre en œuvre leurs programmes et réformes liés au gouvernement ouvert. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 8 # Define order of this page in list of all documentation documents
+order: 15 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
