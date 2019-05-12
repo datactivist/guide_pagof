@@ -1,7 +1,7 @@
 ---
 # Page settings
 title: France - Entrepreneur d’intérêt général  # Define a title of your page
-description: Crée en 2014 dans un esprit pionnier, O’Village est un espace d'intelligence collective et d'innovation sociale lié au numérique au sein duquel, dans un esprit de partage de savoirs, des jeunes apprennent à utiliser les logiciels libres. # Define a description of your page
+description: Lancé en 2016, le programme Entrepreneur d'Intérêt Général a pour principe de recruter à court terme, au sein de l’administration, des personnes issues du privé, ou de la société civile, dotées de compétences numériques d'exception. # Define a description of your page
 keywords: # Define keywords for search engines
 order: 12 # Define order of this page in list of all documentation documents
 
