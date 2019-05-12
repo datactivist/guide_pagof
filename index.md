@@ -56,7 +56,7 @@ features:
                 description: En 2016, le Bénin fait face à une crise de confiance entre citoyens et gouvernement. Découvrez comment la Direction du Budget y fit face en inaugurant un processus de participation citoyenne.
                 icon: message-square
               - title: Tunisie - Plateforme numérique du budget ouvert Mizaniatouna 
-                description: Afin d’améliorer la transparence et un meilleur accès à l’information et aux données sur les dépenses publiques, le Ministère des Finances tunisien a lancé le portail **Mizaniatouna** (notre budget).
+                description: Afin d’améliorer la transparence et un meilleur accès à l’information et aux données sur les dépenses publiques, le Ministère des Finances tunisien a lancé le portail Mizaniatouna (notre budget).
                 icon: monitor
     footer: # Set features section footer variables
         title: Ressources complémentaires
