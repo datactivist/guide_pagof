@@ -77,7 +77,7 @@ Par cette adhésion et participation de tous, le budget est élaboré autour d�
 
 **Dieudonné HOUINSOU** 
 
-Secrétaire Exécutif - [Social Watch Bénin](https://socialwatch.bj/) | Contrôle Citoyen de l'action publique
+Secrétaire Exécutif - [Social Watch Bénin](https://socialwatch.bj/) • Contrôle Citoyen de l'action publique
 
 *Intervention réalisée en collaboration avec la Direction de la Préparation et du Suivi de l’Exécution de la Loi de Finances - Direction Générale du Budget*
 
