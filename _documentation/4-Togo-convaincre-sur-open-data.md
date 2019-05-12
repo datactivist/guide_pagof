@@ -3,7 +3,7 @@
 title: Togo – Convaincre sur le sujet technique des données ouvertes # Define a title of your page
 description: Au Togo, il n’existe pas de tradition de collaboration directe entre gouvernement et OSC dans le domaine du gouvernement ouvert et de l’ouverture des données. Découvrez quels ont été messages-clés adoptés pour convaincre l'administration. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 7 # Define order of this page in list of all documentation documents
+order: 17 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
