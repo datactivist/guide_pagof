@@ -3,7 +3,7 @@
 title: France - Entrepreneur d’intérêt général  # Define a title of your page
 description: Lancé en 2016, le programme Entrepreneur d'Intérêt Général a pour principe de recruter à court terme, au sein de l’administration, des personnes issues du privé, ou de la société civile, dotées de compétences numériques d'exception. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 12 # Define order of this page in list of all documentation documents
+order: 19 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
