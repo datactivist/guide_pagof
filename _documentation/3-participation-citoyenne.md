@@ -3,7 +3,7 @@
 title: Theme 3 - Description # Define a title of your page
 description: De nouveaux cadres de participation citoyenne émergent. Ils prennent différentes formes, avec pour objectif commun de favoriser la consultation et l’écoute des citoyens, soit pour une meilleure efficacité de l’action publique grâce à leur apport d'expertise usagers, soit pour les associer à des choix qui les concernent directement. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 3 # Define order of this page in list of all documentation documents
+order: 10 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
