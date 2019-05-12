@@ -1,4 +1,4 @@
-# guide
+# Guide PAGOF
 Guide des bonnes pratiques et expériences de gouvernement ouvert réussies en Afrique francophone.
 
 [https://datactivist.coop/guide_pagof/](https://datactivist.coop/guide_pagof/)
