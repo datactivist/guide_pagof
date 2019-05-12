@@ -5,5 +5,5 @@ Guide des bonnes pratiques et expériences de gouvernement ouvert réussies en A
 
 ## What parameters to change to fork and install it 
 
-* 1 - In config.yml, change the 'baseurl' to your repository name. Here: 'guide_pagof'
-* 2 - Still in the file config.yml, change the necessary external links
+* 1 - In config.yml, change the `baseurl` to your repository name. Here: `guide_pagof`
+* 2 - Still in the file `config.yml`, change the necessary external links
