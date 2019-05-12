@@ -37,8 +37,8 @@ La Côte d'Ivoire connaît une dynamique de densification de son écosystème de
 
 **Cyriac GBOGOU**
 
-- info@ovillage.ci
+- **Email** : info - at - ovillage.ci
 
-- Site internet [www.ovillage.ci]( http://ovillage.ci/)
+- **Site internet** : [www.ovillage.ci](http://ovillage.ci/)
 
-- Twitter: [@OvillageCi](https://twitter.com/OvillageCi?lang=fr)
+- **Twitter** : [@OvillageCi](https://twitter.com/OvillageCi?lang=fr)
