@@ -1,13 +1,13 @@
 ---
 # Page settings
-title: France - Entrepreneur d’intérêt général par Etalab  # Define a title of your page
-description: Crée en 2014 dans un esprit pionnier, O’Village est un espace d'intelligence collective et d'innovation sociale lié au numérique au sein duquel, dans un esprit de partage de savoirs, des jeunes apprennent à utiliser les logiciels libres.# Define a description of your page
+title: France - Entrepreneur d’intérêt général  # Define a title of your page
+description: Crée en 2014 dans un esprit pionnier, O’Village est un espace d'intelligence collective et d'innovation sociale lié au numérique au sein duquel, dans un esprit de partage de savoirs, des jeunes apprennent à utiliser les logiciels libres. # Define a description of your page
 keywords: # Define keywords for search engines
 order: 12 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
-    title: France - Entrepreneur d’intérêt général par Etalab
+    title: France - Le programme Entrepreneur d’intérêt général
     text: Étapes, bonnes pratiques et enseignements
     
 ---
