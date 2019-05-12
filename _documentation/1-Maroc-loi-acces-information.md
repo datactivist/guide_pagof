@@ -3,7 +3,7 @@
 title: Maroc - Loi sur le Droit d’accès à l’information # Define a title of your page
 description: L’expérience marocaine est un cas exemplaire de par la consultation permanente de la société civile tout au long du processus législatif et au-delà. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 3 # Define order of this page in list of all documentation documents
+order: 4 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
@@ -44,8 +44,8 @@ L’expérience marocaine est un cas exemplaire de par la consultation permanent
 
 ## Contact
 **Hatim MOURADI** 
-<!-- -->
+
 Chef de la division de l’innovation et des programmes de modernisation.
-<!-- -->
-Ministère de la Fonction Publique et de la Modernisation de l’Administration du Maroc. 
+
+Ministère de la Fonction Publique et de la Modernisation de l’Administration du Maroc.
 
