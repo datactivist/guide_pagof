@@ -3,7 +3,7 @@
 title: Theme 2 - Description # Define a title of your page
 description: La publication des documents fondamentaux relatifs à la dépense publique et leur mise à jour régulière constituent les éléments de base d'un système budgétaire responsable, transparent et ouvert. Il s’agit d’un des critères d’éligibilité essentiels pour l’adhésion au PGO. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 1 # Define order of this page in list of all documentation documents
+order: 2 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
