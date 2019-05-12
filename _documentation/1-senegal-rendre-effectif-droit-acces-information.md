@@ -3,7 +3,7 @@
 title: Sénégal — Rendre effectif le droit d’accès à l’information # Define a title of your page
 description: Bien qu’étant un droit consacré par la constitution sénégalaise, l’accès à l’information ne fait pas l’objet d’une loi spécifique dans le pays. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 4 # Define order of this page in list of all documentation documents
+order: 2 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
