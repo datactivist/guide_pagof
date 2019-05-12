@@ -64,24 +64,6 @@ features:
                 url: https://datactivist.coop/guide_pagof/documentation/2-Tunisie-portail-open-data-Mizaniatouna/
                 external_url: true
                 icon: monitor
-          - title: Theme 3 - Les nouveaux cadres de participation citoyenne
-          description: De nouveaux cadres de participation citoyenne émergent et prennent différentes formes, avec pour objectif commun de favoriser la consultation et l’écoute des citoyens.
-          grid:
-              - title: Burkina Faso - Le Présimètre
-                description: Cette plateforme numérique permet aux citoyens de visualiser l’avancée des engagements pris par le Président de la République et son gouvernement et de s'impliquer dans des débats publics télévisés.
-                url: https://datactivist.coop/guide_pagof/documentation/3-Burkina-faso-Presimetre/
-                external_url: true
-                icon: send
-              - title: Côte d’Ivoire – Un dialogue citoyen pour co-construire le PAN
-                description: Dans le cadre de l’élaboration de son 2d Plan d’Action National,la Côte d’Ivoire a veillé à la participation active de la société civile tout au long du processus.
-                url: https://datactivist.coop/guide_pagof/documentation/3-Cote-ivoire-participation-societe-civile/
-                external_url: true
-                icon: message-square
-              - title: France – Les Forums Open d’Etat 
-                description: Les Forums Open d’État favorisent un travail collaboratif sur les engagements du PAN. Ils sont ouverts à tous et ont pour objectif de faire se rencontrer régulièrement des agents publics et des acteurs de la société civile sur des thèmes spécifiques.
-                url: https://datactivist.coop/guide_pagof/documentation/3-France-Forums-Open-Etat/
-                external_url: true
-                icon: monitor
     footer: # Set features section footer variables
         title: Ressources complémentaires
         description: Retrouvez dans cette partie toutes les ressources évoquées et partagées pendant le séminaire (présentations PowerPoint, liens utiles, rapports, documents, outils..) ainsi que des outils d'animation, et le livret du participant.
