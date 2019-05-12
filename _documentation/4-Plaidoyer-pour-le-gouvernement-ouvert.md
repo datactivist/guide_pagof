@@ -3,7 +3,7 @@
 title: Theme 4 - Description # Define a title of your page
 description: La démarche de gouvernement ouvert et l’adhésion au PGO reposent toutes deux sur une entente et une volonté commune de la société civile et de l’administration. Au-delà de ces objectifs communs et partagés, cela nécessite une structuration interne de la société civile et de l’administration autour du gouvernement ouvert et de l’adhésion au PGO. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 4 # Define order of this page in list of all documentation documents
+order: 14 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
