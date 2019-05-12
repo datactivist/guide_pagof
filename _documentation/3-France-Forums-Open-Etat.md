@@ -3,7 +3,7 @@
 title: France – Les Forums Open d’Etat # Define a title of your page
 description: Les Forums Open d’État favorisent un travail collaboratif sur les engagements pris dans le PAN. Ils sont ouverts à tous et ont pour objectif de faire se rencontrer régulièrement des agents publics impliqués dans des projets d’innovation et des acteurs de la société civile sur des thèmes spécifiques. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 0 # Define order of this page in list of all documentation documents
+order: 13 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
