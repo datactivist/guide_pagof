@@ -1,9 +1,9 @@
 ---
 # Page settings
-title: Theme 5 - Description # Define a title of your page
+title: Theme 5 • Description # Define a title of your page
 description: Les incubateurs, les espaces de formation et d’innovation numérique se développent de manière exponentielle en Afrique ces dernières années. Ces espaces communautaires et les nouvelles compétences développées peuvent faire émerger des projets innovants et à fort potentiel de transformation à même de renforcer le gouvernement ouvert. # Define a description of your page
 keywords: # Define keywords for search engines
-order: 5 # Define order of this page in list of all documentation documents
+order: 18 # Define order of this page in list of all documentation documents
 
 # Hero section
 hero:
